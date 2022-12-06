@@ -1,5 +1,5 @@
 import cv2
-from gui_buttons import Buttons
+from buttons import Buttons
 
 # Initialize buttons
 button = Buttons()
